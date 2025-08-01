@@ -8,21 +8,13 @@ Este es un proyecto web desarrollado con **HTML**, **CSS** y **JavaScript**, que
 -  Validar que el nombre no esté vacío ni contenga números.
 -  Visualizar en pantalla los nombres añadidos.
 -  Sortear aleatoriamente un amigo de la lista.
-- ⚠ Validación para que haya al menos dos personas antes de sortear.
+-  Validación para que haya al menos dos personas antes de sortear.
 
 ##  Tecnologías utilizadas
 
 - HTML5
 - CSS3
 - JavaScript 
-
-##  Estructura del proyecto
-amigo-secreto/
-│
-├── index.html # Estructura de la página
-├── style.css # Estilos visuales
-├── app.js # Lógica del sorteo y validaciones
-└── assets/ # Imágenes y recursos adicionales
 
 ##  Vista previa
 
